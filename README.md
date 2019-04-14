@@ -1,2 +1,0 @@
-# thetestproject
-hello world
